@@ -229,7 +229,7 @@ class Ui_Dialog(object):
         self.pushREQUEST.setText(_translate("Dialog", "Push request"))
         self.SPACER.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-style:italic; text-decoration: underline;\">Broken down METAR request</span></p></body></html>"))
         self.label_15.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;\">VFR</span></p></body></html>"))
-        self.GITHUBLINK.setText(_translate("Dialog", "Link for Help: #LEONARD ENTER THE LINK HERE"))
+        self.GITHUBLINK.setText(_translate("Dialog", "Link for Help: https://github.com/Haptic-Lazier/ProjectPilotClearance_GUI/blob/main/README.md"))
 
 if __name__ == "__main__":
     import sys
